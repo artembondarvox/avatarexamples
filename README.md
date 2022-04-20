@@ -1,2 +1,2 @@
 # avatarexamples
-examples of avatars
+This repo contains examples of avatars
