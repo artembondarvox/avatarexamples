@@ -5,11 +5,11 @@
       "entries": [{
         "value": "iPhone",
         "synonyms": ["iPhone", "айфон"],
-        "payload": null
+        "payload": ""
       },{
         "value": "iPad",
         "synonyms": ["iPad", "айпэд"],
-        "payload": null
+        "payload": ""
       },{
         "value": "macbook",
         "synonyms": ["macbook", "макбук"],
